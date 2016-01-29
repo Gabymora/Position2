@@ -1,0 +1,54 @@
+div {
+	height: 200px;
+	width: 200px;
+}	
+body {
+	margin: 0px;
+	padding: 0px;
+}
+/*------------PRIMER CUADRO---------*/
+.rojo {
+	background-color: #FC3535;
+	position: absolute;
+}
+
+.morado {
+	background-color: purple;
+	position: relative;
+	left: 50px;
+	margin-top: 50px;
+	height: 100px;
+	width: 100px;
+}
+
+.amarillo{
+	background-color: yellow;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	height: 50px;
+	width: 50px;
+}
+/* --------------SEGUNDO CUADRO----------*/
+.azul {
+	background-color: blue;
+	position: absolute;
+	top:250px;
+}
+
+.verde {
+	background-color: green;
+	position: relative;
+	left: 50px;
+	margin-top: 50px;
+	height: 100px;
+	width: 100px;
+}
+
+.negro{
+	background-color: black;
+	position: absolute;
+	height: 50px;
+	width: 50px;
+}
+
